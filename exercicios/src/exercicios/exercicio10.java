@@ -43,7 +43,7 @@ public class exercicio10 {
 					break;
 			}
 			
-			c.writeLine("\n O resultado da conta é " + res);
+			c.writeLine("\nO resultado da conta é " + res);
 			
 		}while(op!='0');
 	}
