@@ -1,4 +1,4 @@
-package exercicios;
+package nivel3;
 
 import tools.easyIO;
 
